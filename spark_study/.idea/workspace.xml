@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ce32608-ce65-4e22-856b-0d47d953bb17" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.1\maven-repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true " />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fIyHm1goZAbY3bMckXNWRQjNZc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-core" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.splitter.proportion" value="0.22949736" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\spark_study\spark-core" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\spark_study\spark-core\src\main" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\spark_study\source" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\spark_study" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.streamingWordCount">
+    <configuration name="linearRegression" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo.linearRegression" />
+      <module name="sparkmllib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="streamingWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo.streamingWordCount" />
+      <module name="sparkstreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wordcount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="wjt.demo.wordcount" />
+      <module name="sparkcore" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\LENOVO\IdeaProjects\spark_study\spark-core\source\test001.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wjt.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Accumulator.acc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sparkcore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wjt.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wjt.demo" />
+      <option name="MAIN_CLASS_NAME" value="wjt.demo.Accumulator" />
+      <option name="METHOD_NAME" value="acc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.linearRegression" />
+      <item itemvalue="Application.wordcount" />
+      <item itemvalue="Application.streamingWordCount" />
+      <item itemvalue="JUnit.Accumulator.acc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.streamingWordCount" />
+        <item itemvalue="JUnit.Accumulator.acc" />
+        <item itemvalue="Application.wordcount" />
+        <item itemvalue="Application.linearRegression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ce32608-ce65-4e22-856b-0d47d953bb17" name="Default Changelist" comment="" />
+      <created>1595919815122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595919815122</updated>
+      <workItem from="1595919818003" duration="11880000" />
+      <workItem from="1595935243727" duration="865000" />
+      <workItem from="1595936930148" duration="2968000" />
+      <workItem from="1595940467882" duration="426000" />
+      <workItem from="1595983313801" duration="437000" />
+      <workItem from="1595983783438" duration="1929000" />
+      <workItem from="1595985920753" duration="23775000" />
+      <workItem from="1596093847661" duration="550000" />
+      <workItem from="1596094479254" duration="42000" />
+      <workItem from="1596094557255" duration="172000" />
+      <workItem from="1596094771504" duration="75000" />
+      <workItem from="1596094983586" duration="29067000" />
+      <workItem from="1596244987093" duration="19029000" />
+      <workItem from="1596423627018" duration="50000" />
+      <workItem from="1596423719436" duration="20000" />
+      <workItem from="1596553281090" duration="2109000" />
+      <workItem from="1596616132345" duration="90000" />
+      <workItem from="1596629447940" duration="44000" />
+      <workItem from="1596722050216" duration="1800000" />
+      <workItem from="1596723985378" duration="11000" />
+      <workItem from="1596766488242" duration="213000" />
+      <workItem from="1596767151714" duration="608000" />
+      <workItem from="1596769276432" duration="101000" />
+      <workItem from="1597455209772" duration="285000" />
+      <workItem from="1597730510691" duration="174000" />
+      <workItem from="1597736060942" duration="52000" />
+      <workItem from="1597740134203" duration="69000" />
+      <workItem from="1597740273157" duration="279000" />
+      <workItem from="1597913938321" duration="1635000" />
+      <workItem from="1597915732600" duration="64000" />
+      <workItem from="1597915834695" duration="880000" />
+      <workItem from="1597916747243" duration="71000" />
+      <workItem from="1597916846598" duration="284000" />
+      <workItem from="1597917164460" duration="160000" />
+      <workItem from="1597917431207" duration="1720000" />
+      <workItem from="1598059565610" duration="682000" />
+      <workItem from="1598063586633" duration="79000" />
+      <workItem from="1598107449370" duration="2972000" />
+      <workItem from="1598111112543" duration="228000" />
+      <workItem from="1598147985543" duration="5603000" />
+      <workItem from="1598276914386" duration="660000" />
+      <workItem from="1598607201469" duration="137000" />
+      <workItem from="1598619265597" duration="1123000" />
+      <workItem from="1598620790669" duration="112000" />
+      <workItem from="1598622408720" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

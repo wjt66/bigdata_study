@@ -1,0 +1,1 @@
+记录自己对大数据组件的学习曲线：hadoop，zookeeper，hive，flume，kafka，hbase，spark，flink
